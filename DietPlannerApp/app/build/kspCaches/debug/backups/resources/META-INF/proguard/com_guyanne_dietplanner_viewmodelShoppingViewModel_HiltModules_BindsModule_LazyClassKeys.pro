@@ -1,0 +1,11 @@
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.AddMealViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.AddMealViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.LoginViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.MealPlanViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.MealPlanViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.NutritionViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.NutritionViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.ShoppingViewModel

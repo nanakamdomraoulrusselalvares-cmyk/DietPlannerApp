@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.AddMealViewModel
+-keep,allowobfuscation,allowshrinking class com.guyanne.dietplanner.viewmodel.AddMealViewModel
